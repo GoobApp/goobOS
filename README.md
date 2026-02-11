@@ -1,4 +1,6 @@
-# What this does (note: i just kept track while making the changes; this isn't a very well-made list)
+# What this does
+(note: i just kept track while making the changes; this isn't a very well-made list)
+
 1. Breeze dark
 2. Slightly faster animation speed
 3. Install steam
