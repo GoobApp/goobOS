@@ -15,7 +15,7 @@
 12. Create Home/Developer, give it folder icon default-folder-code, add it to left panel Places above Trash but below others
 13. Set default profile picture to https://raw.githubusercontent.com/GoobApp/goobOS/refs/heads/main/branding/profile-picture.png
 14. Set wallpaper (on all displays!!) to https://raw.githubusercontent.com/GoobApp/goobOS/refs/heads/main/branding/wallpaper.png
-15.Change /etc/os-release to https://raw.githubusercontent.com/GoobApp/goobOS/refs/heads/main/branding/os-release.goob, or at least relavant fields
+15. Change /etc/os-release to https://raw.githubusercontent.com/GoobApp/goobOS/refs/heads/main/branding/os-release.goob, or at least relavant fields
 16. sudo hostnamectl set-hostname goobOS
 17. Change /usr/share/pixmaps/system-logo-white.png to https://raw.githubusercontent.com/GoobApp/goobOS/refs/heads/main/branding/logo.png
 18. Change /usr/share/plymouth/themes/spinner/watermark.png to https://raw.githubusercontent.com/GoobApp/goobOS/refs/heads/main/branding/watermark.png
