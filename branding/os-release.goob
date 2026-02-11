@@ -1,9 +1,9 @@
 NAME="goobOS"
-VERSION="43 (KDE Plasma Desktop Edition)"
+VERSION="1"
 RELEASE_TYPE=stable
 ID=fedora
 VERSION_ID=43
-VERSION_CODENAME=""  
+VERSION_CODENAME=""
 PRETTY_NAME="goobOS"
 ANSI_COLOR="0;38;2;62;114;59"
 LOGO=goobos-logo-icon
